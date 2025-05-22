@@ -20,6 +20,7 @@ public class HMCheckbox {
         choseMenu();
         choseSubMenu();
 
+
         // Expandăm nodurile pentru a avea acces la toate submeniurile
         expandNode("Home");
         expandNode("Desktop");
